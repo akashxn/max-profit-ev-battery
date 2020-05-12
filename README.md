@@ -13,10 +13,10 @@ Calculating incentive and penalty based on user's driving behaviour. This tool c
 
 **WORKFLOW:**
 
-- Use Expectation Maximization technique K Means to form clusters of drivers (without using sklearn)
+- Use Expectation Maximization technique K Means to form clusters of drivers (without using sklearn) (**main.ipynb**)
 - Label the clusters as Incentive, Normal, Low Penalty and High Penalty
 - Predict using KNN, a new user's data, belongs to which cluster and charge accordingly
-- Build an interactive dashboard for the EV battery provider to use (not in this notebook file)
+- Build an interactive dashboard for the EV battery provider to use (**dashboard.py**)
 
 
 **CHARGING METHOD:**\
