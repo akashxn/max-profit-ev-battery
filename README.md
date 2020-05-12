@@ -1,5 +1,5 @@
 ### max-profit-ev-battery
-# Maximize Profits for EV Battery Providers
+# Maximize Profits for EV Battery Providers using K means
 
 ![Dashboard](dash_initial.JPG)
 
