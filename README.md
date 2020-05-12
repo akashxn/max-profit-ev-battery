@@ -20,7 +20,7 @@ Calculating incentive and penalty based on user's driving behaviour. This tool c
 
 
 **CHARGING METHOD:**\
-![Charging method](input.gif) \
+![Charging method](input.gif) 
 - Cluster 1 : Incentive
 - Cluster 2 : Normal
 - Cluster 3 : Low Penalty
